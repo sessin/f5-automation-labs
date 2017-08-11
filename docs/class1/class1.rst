@@ -1,5 +1,5 @@
-Class 1 - Introduction to Automation & Orchestration
-====================================================
+Class 1: Introduction to Automation & Orchestration
+===================================================
 
 This introductory class covers the following topics:
 
@@ -7,11 +7,10 @@ This introductory class covers the following topics:
 - Declarative Automation using the F5 iWorkflow product
 - F5 Automation Tools:
 
-  - The f5-super-netops Container
+  - The f5-super-netops-container
   - Collections and the f5-postman-workflows extension to Postman
-  - Automation Workflows using f5-newman-wrapper
 
-Expected time to complete: **6 hours**
+Expected time to complete: **3 hours**
 
 .. toctree::
    :maxdepth: 1

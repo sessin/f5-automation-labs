@@ -5,7 +5,7 @@
 .. |labname| replace:: Lab\ |labdot|
 .. |labnameund| replace:: Lab\ |labund|
 
-Lab |labmodule|\.\ |labnum| – Review/Set Device Settings
+Lab |labmodule|\.\ |labnum|\: Review/Set Device Settings
 --------------------------------------------------------
 
 Your BIG-IP-A device is already licensed, so now we can focus on
@@ -96,7 +96,7 @@ Task 2 – Modify DNS/NTP Settings
 
    ``myArray: [ Object0, Object1 ... ObjectX ]``
 
-   To define and array consisting of Strings the syntax is:
+   To define an array consisting of Strings the syntax is:
 
    ``myStringArray: [ "string0", "string1" ... "stringX" ]``
 

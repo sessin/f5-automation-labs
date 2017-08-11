@@ -5,7 +5,7 @@
 .. |labname| replace:: Lab\ |labdot|
 .. |labnameund| replace:: Lab\ |labund|
 
-Lab |labmodule|\.\ |labnum| – Create Tenant & BIG-IP Connector
+Lab |labmodule|\.\ |labnum|\: Create Tenant & BIG-IP Connector
 --------------------------------------------------------------
 
 iWorkflow implements a Tenant/Provider interface to enable abstracted deployment
@@ -31,7 +31,7 @@ Perform the following steps to complete this task:
    collection.
 
 #. Click the "Step 1: Create iWorkflow Tenant" item in the collection and click
-   'Send'.  This request will create a tenant name ``MyTenant``.
+   'Send'.  This request will create a tenant named ``MyTenant``.
 
 #. Click the "Step 2: Create Tenant User" item in the collection and click
    'Send'.  This request will create a **tenant** user.

@@ -1,5 +1,5 @@
-Module 2 – iWorkflow
-====================
+Module 2: iWorkflow
+===================
 
 In this module we will explore how to use F5’s iWorkflow platform to
 further abstract application services and deliver those services to
@@ -17,7 +17,7 @@ by different features.
 
 L1-3 Networking and Device Onboarding are delivered by ‘Cloud
 Connectors’ that are specific to the third party technology ecosystem
-(e.g. vCMP, AWS, Cisco APIC, VMware NSX, BIG-IP, etc).
+(e.g. vCMP, Cisco APIC, VMware NSX, BIG-IP, etc).
 
 L4-7 service delivery is accomplished by:
 

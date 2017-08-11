@@ -5,7 +5,7 @@
 .. |labname| replace:: Lab\ |labdot|
 .. |labnameund| replace:: Lab\ |labund|
 
-Lab |labmodule|\.\ |labnum| – iWorkflow Authentication
+Lab |labmodule|\.\ |labnum|\: iWorkflow Authentication
 ------------------------------------------------------
 
 iWorkflow supports the same authentication mechanisms as BIG-IP (HTTP
@@ -30,8 +30,7 @@ Perform the following steps to complete this task:
    Postman Collection
 
 #. Notice that we are sending a POST request to the
-   ``/mgmt/shared/authn/login`` endpoint. Additionally, BASIC
-   Authentication is required on the initial token request:
+   ``/mgmt/shared/authn/login`` endpoint.
 
    |image41|
 
@@ -70,7 +69,7 @@ Perform the following steps to complete this task:
 
    |image46|
 
-#. Click the ‘Send’ button. If you’re request is successful you should
+#. Click the ‘Send’ button. If your request is successful you should
    see a ‘200 OK’ status and a listing of the ‘ltm’ Organizing
    Collection.
 
@@ -90,7 +89,7 @@ Perform the following steps to complete this task:
    |image49|
 
 #. Click the ‘Update’ button and then close the ‘Manage Environments’
-   window. You’re subsequent requests will now automatically include
+   window. Your subsequent requests will now automatically include
    the token.
 
 #. Click the ‘Step 3: Set Authentication Token Timeout’ item in the
